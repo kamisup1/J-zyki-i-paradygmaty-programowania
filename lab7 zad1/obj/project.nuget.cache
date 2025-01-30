@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+hsHbSz2rpWWjfhp0+PuJ2aULqHHdvL92+WZ0dxo07c5o1qwpo4G394BS7xstjEvOYPL7smZfVl5e5RD+hhy5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kamis\\OneDrive\\Pulpit\\paradygmaty programowania\\lab7 zad1\\lab7 zad1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kamis\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
